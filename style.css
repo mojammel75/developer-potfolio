@@ -4,6 +4,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -34,4 +35,9 @@ section{
 .top-benner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+.Dream-Big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+   background-position: right;
 }
